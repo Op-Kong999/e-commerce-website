@@ -3,7 +3,9 @@
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
   }
-  
+  body{
+    background-image: url(Img/istockphoto-2147499243-2048x2048.webp);
+  }
   .header-top {
     display: flex;
     justify-content: center;
