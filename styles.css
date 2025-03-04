@@ -231,7 +231,7 @@
   
   .trending {
     height: 300px;
-    /* background-color: #75c9c6; */
+    background-color: #75c9c6;
     width: auto;
     padding: 30px;
   }
@@ -246,21 +246,6 @@
     column-gap: 40px;
     margin-top: 20px;
   }
- 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   .trending .main-box .box {
   
     width: 271px;
@@ -490,3 +475,18 @@
   width: 400px;
   mix-blend-mode: multiply;
 }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
