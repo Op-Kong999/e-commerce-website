@@ -3,8 +3,7 @@
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
   }
- 
-  .header-top {
+ .header-top {
     display: flex;
     justify-content: center;
     padding: 10px 30px;
@@ -13,23 +12,19 @@
     height: 20px;
     background-color: rgba(255, 20, 145, 0.822);
   }
-  
-  .header-top .logo {
+   .header-top .logo {
     display: flex;
     column-gap: 10px;
   }
-  
   .header-top .header-item {
     display: flex;
     column-gap: 10px;
   }
-  
-  .header-top .header-item a {
+   .header-top .header-item a {
     text-decoration: none;
     font-size: 20px;
     color: black;
   }
-  
   .header {
     display: flex;
     justify-content: center;
@@ -54,7 +49,6 @@
   .header .header-item .home-btn {
     border-bottom: 2px solid black;
   }
-  
   .header .shop-icon {
     display: flex;
     column-gap: 10px;
@@ -78,8 +72,7 @@
     justify-content: center;
     align-items: center;
   }
-  
-  .home .slide .one {
+   .home .slide .one {
     width: 20px;
     height: 20px;
     border-radius: 50%;
@@ -111,8 +104,7 @@
     padding: 100px;
     padding-top: 80px;
   }
-  
-  .home .main-sec .left .txt {
+ .home .main-sec .left .txt {
     display: flex;
     flex-direction: column;
     row-gap: 20px;
@@ -131,7 +123,6 @@
     background-color: rgba(255, 20, 145, 0.822);
     cursor: pointer;
   }
-  
   .home .left {
     width: 46vw;
     padding: 30px;
@@ -150,7 +141,6 @@
   .shadow{
     box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
   }
-  
   .product-box .main-box {
     display: flex;
     justify-content: center;
@@ -180,7 +170,6 @@
     width: fit-content;
     cursor: pointer;
   }
-  
   .product-box img {
     width: 450px;
   }
@@ -212,8 +201,7 @@
     width: 230px;
     margin-left: 116px;
   }
-  
-  .product-box .main-box .box3 {
+ .product-box .main-box .box3 {
     width: 350px;
     height: 360px;
     background-image: linear-gradient(143deg,#34A2C3, transparent);
@@ -227,7 +215,6 @@
     flex-direction: column;
     row-gap: 10px;
   }
-  
   .product-box .main-box .box3 .txt button {
     padding: 10px 20px;
     border: none;
@@ -248,7 +235,6 @@
     width: auto;
     padding: 30px;
   }
-  
   .trending .txt {
     display: flex;
     justify-content: center;
@@ -260,6 +246,20 @@
     column-gap: 40px;
     margin-top: 20px;
   }
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   .trending .main-box .box {
   
